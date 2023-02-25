@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ceas_8051")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ceas_8051.pretty")(options "")(descr ""))
+)
